@@ -1,1 +1,1 @@
-# Trabalho_de_Grafos
+# Trabalho Prático da diciplina Algoritmo em Gravos
